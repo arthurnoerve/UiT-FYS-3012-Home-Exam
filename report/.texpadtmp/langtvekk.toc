@@ -1,0 +1,10 @@
+\select@language {norsk}
+\contentsline {section}{\numberline {1}Problem 1: Seal classification}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1} }{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2} Conclusion }{2}{subsection.1.2}
+\contentsline {section}{\numberline {2}Problem 2: Chlorophyll contents regression}{2}{section.2}
+\contentsline {section}{\numberline {3}Problem 3: Binary digit classification}{2}{section.3}
+\contentsline {section}{\numberline {4} Appendix A: The inner workings of the methods}{2}{section.4}
+\contentsline {subsection}{\numberline {4.1}Simple Normal Bayes classifier}{2}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Least Squares and Least Mean Squares with Stochastic iteration}{2}{subsection.4.2}
+\contentsline {section}{\numberline {5} Appendix B: Code}{2}{section.5}

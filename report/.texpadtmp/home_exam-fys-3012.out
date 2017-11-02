@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{Problem 1: Seal classification}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Types of classifiers and methodology}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{PCA analysis }{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Comparing classifiers across dimension and resampling }{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Neural network: 2LP}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{Conclusion }{section.1}% 6
+\BOOKMARK [1][-]{section.2}{Problem 2: Chlorophyll contents regression}{}% 7
+\BOOKMARK [2][-]{subsection.2.1}{LMS Regression}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.2}{LS Regression}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.3}{Conclusion}{section.2}% 10
+\BOOKMARK [1][-]{section.3}{Problem 3: Binary digit classification}{}% 11
+\BOOKMARK [2][-]{subsection.3.1}{Data investigation}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.2}{Decoding the message from the Heavens}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.3}{Conclusion }{section.3}% 14
+\BOOKMARK [1][-]{section.4}{ Appendix A: Code}{}% 15
+\BOOKMARK [2][-]{subsection.4.1}{About}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.2}{The Alpha package code}{section.4}% 17
